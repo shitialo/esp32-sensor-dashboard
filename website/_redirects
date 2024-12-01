@@ -1,0 +1,2 @@
+/ws/*  https://esp32-sensor.your-account.workers.dev/ws/:splat  200
+/*     /index.html                                                  200 
